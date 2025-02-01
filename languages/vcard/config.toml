@@ -1,0 +1,3 @@
+name = "vCard"
+grammar = "vcard"
+path_suffixes = ["vcf"]

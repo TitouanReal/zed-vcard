@@ -1,0 +1,13 @@
+[package]
+name = "zed_vcard"
+version = "0.1.0"
+authors = ["Titouan Real <titouan.real@gmail.com>"]
+edition = "2021"
+repository = "https://github.com/TitouanReal/zed_vcard"
+license = "Apache-2.0 OR MIT"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+zed_extension_api = "0.2.0"

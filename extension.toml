@@ -1,0 +1,11 @@
+id = "vcard"
+name = "vCard"
+version = "0.1.0"
+schema_version = 1
+authors = ["Titouan Real <titouan.real@gmail.com>"]
+description = "vCard support."
+repository = "https://github.com/TitouanReal/zed-vcard"
+
+[grammars.vcard]
+repository = "https://github.com/TitouanReal/tree-sitter-vcard"
+rev = "eff051d170d379de728119429046cf50453dc75c"
