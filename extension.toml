@@ -9,3 +9,7 @@ repository = "https://github.com/TitouanReal/zed-vcard"
 [grammars.vcard]
 repository = "https://github.com/TitouanReal/tree-sitter-vcard"
 rev = "d50805152347bdbb694c0108e80a935e3d300ea3"
+
+[language_servers.vcard]
+name = "vcard-lsp"
+languages = ["vcard", "vCard"]
