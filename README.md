@@ -1,6 +1,6 @@
-# tree-sitter-vcard
+# zed-vcard
 
-vCard grammar for [tree-sitter](https://github.com/tree-sitter/tree-sitter).
+vCard support for [Zed](https://zed.dev/).
 
 ## License
 
@@ -17,5 +17,5 @@ at your option.
 ## Contributing
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in `csidh` by you, as defined in the Apache-2.0 license, shall be
+for inclusion in `zed-vcard` by you, as defined in the Apache-2.0 license, shall be
 dual licensed as above, without any additional terms or conditions.
