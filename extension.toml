@@ -8,4 +8,16 @@ repository = "https://github.com/TitouanReal/zed-vcard"
 
 [grammars.vcard]
 repository = "https://github.com/TitouanReal/tree-sitter-vcard"
+<<<<<<< HEAD
 rev = "f8016385059fd3b2a5668ef92131293932d8907b"
+
+[language_servers.vcard]
+name = "vCard LSP"
+languages = ["vCard"]
+=======
+rev = "d50805152347bdbb694c0108e80a935e3d300ea3"
+
+[language_servers.vcard]
+name = "vcard-lsp"
+languages = ["vcard", "vCard"]
+>>>>>>> 0fc7b70 (Add lsp)
