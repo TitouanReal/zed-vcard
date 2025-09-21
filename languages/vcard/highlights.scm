@@ -1,5 +1,5 @@
-(group) @property
+(group) @title
 (property_name) @keyword
-(property_value) @number
-(parameter_name) @operator
-(parameter_value) @title
+(property_value) @string
+(parameter_name) @label
+(parameter_value) @property
